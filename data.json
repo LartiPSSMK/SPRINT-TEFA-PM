@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "title": "Supervisi Akademik: Panduan Lengkap Menulis Artikel",
+        "date": "2025-11-01",
+        "content": "Web development adalah proses membangun website dari frontend hingga backend...",
+        "pdf": "./artikel/artikel1.pdf"
+    },
+
+    {
+        "id": 2,
+        "title": "Meningkatkan Keterampilan Menulis Artikel Akademik",
+        "date": "2025-11-15",
+        "content": "Menulis artikel akademik memerlukan pemahaman mendalam tentang topik yang dibahas...",
+        "pdf": "./artikel/JADWAL ANG 2.pdf"
+    },
+    {
+        "id": 3,
+        "title": "Strategi Efektif untuk Publikasi Jurnal Ilmiah",
+        "date": "2025-12-01",
+        "content": "Publikasi jurnal ilmiah adalah langkah penting dalam karir akademik...",
+        "pdf": "./artikel/artikel3.pdf"
+    }
+]
+    

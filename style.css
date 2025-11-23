@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    color: #222;
+}
+
+.container {
+    width: 92%;
+    max-width: 900px;
+    margin: auto;
+}
+
+/* Navbar */
+nav {
+    background: #222;
+    color: white;
+    padding: 15px 0;
+}
+
+nav a, nav h2 {
+    color: white;
+    text-decoration: none;
+}
+
+/* Hero */
+.hero {
+    padding: 40px 0;
+    background: #4e73df;
+    color: white;
+    text-align: center;
+}
+
+.hero input {
+    margin-top: 20px;
+    padding: 12px;
+    width: 80%;
+    max-width: 350px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+/* Cards */
+.card {
+    display: block;
+    background: white;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #222;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    transition: 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+/* Article page */
+.article h1 {
+    margin-top: 20px;
+}
+
+.meta {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: #777;
+    margin-top: 40px;
+}
