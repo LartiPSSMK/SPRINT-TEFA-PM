@@ -1,11 +1,13 @@
 [
     {
         "id": 1,
-        "title": "Supervisi Akademik: Panduan Lengkap Menulis Artikel",
-        "date": "2025-11-01",
-        "content": "Web development adalah proses membangun website dari frontend hingga backend...",
-        "pdf": "./artikel/artikel1.pdf"
-    },
+        "title": "Roadmap Implementasi TEFA di SMK",
+        "date": "2025-11-23",
+        "content": "Peta panduan langkah-langkah sistematis untuk membangun dan menjalankan Teaching Factory di SMK",
+        "pdf": "./artikel/1.Roadmap Implementasi TEFA di SMK.pdf"
+    }
+
+
 
     
 ]
